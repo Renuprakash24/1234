@@ -1,4 +1,4 @@
-#!/bin/sh
+
 #include <iostream>
 
 using namespace std;
