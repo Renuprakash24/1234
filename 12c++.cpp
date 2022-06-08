@@ -1,4 +1,4 @@
-gfh
+
 #include <iostream>
 
 using namespace std;
