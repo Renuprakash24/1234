@@ -16,5 +16,5 @@ class expleo
 int main()
 {
   expleo e1;
-  e1.expeo();
+  e1.expleo();
 } 
