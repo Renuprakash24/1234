@@ -3,8 +3,18 @@
 
 using namespace std;
 
+class expleo
+{
+  public:
+   int a;
+  expleo()
+  {
+    cout<<"Hi expleo"<<endl;
+  }
+};
+
 int main()
 {
-  cout<<"HI"<<endl;
-  return 1;
-}  
+  expleo e1;
+  e1.expeo();
+} 
