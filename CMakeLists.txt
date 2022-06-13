@@ -7,7 +7,8 @@ set_target_properties(PROPERTIES
     CXX_STANDARD 11
     CXX_STANDARD_REQUIRED ON
 
-add_executable(app main.cpp)   
+add_executable(app main.cpp)  
+)
 
 
 
